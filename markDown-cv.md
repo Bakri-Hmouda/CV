@@ -30,6 +30,18 @@ photographer with over 14 years of experience in Photography and Digital Design.
   
 <br/>
 
+### Skills
+
+-	Digital Photography
+-	Retouching and color correction
+-	Equipment setup and maintenance
+-	Digital design
+-	Problem resolution
+-	Adobe Photoshop & Lightroom
+-	Social media 
+
+<br/>
+
 ### Education
 
 Technical High school Diploma in accounting
