@@ -1,4 +1,5 @@
-# Bakri Hmouda
+# Bakri Hmouda  
+![picture of me](image.jpeg)
     
     
 tel: 71450221   
@@ -30,7 +31,15 @@ photographer with over 14 years of experience in Photography and Digital Design.
   
 <br/>
 
+### Skills
 
+-	Digital Photography
+-	Retouching and color correction
+-	Equipment setup and maintenance
+-	Digital design
+-	Problem resolution
+-	Adobe Photoshop & Lightroom
+-	Social media 
 
 <br/>
 
